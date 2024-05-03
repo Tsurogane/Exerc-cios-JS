@@ -9,4 +9,3 @@ if(n % 2 == 0){
 if(n % 2 == 1){
     alert("Impar");
 }
-alert;
